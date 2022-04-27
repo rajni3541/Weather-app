@@ -1,0 +1,16 @@
+.app:before {
+    content: '';
+    background: url('./assets/mississauga-snow.jpg') no-repeat center center/cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  .button{
+    margin: 8px 7px 8px 7px;
+    padding:9px 40px;
+    height:12px;
+  }
